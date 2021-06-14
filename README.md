@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <img alt="2.jpg">
+    <img src="2.jpg" >
   </body>
 </html>
