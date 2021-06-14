@@ -2,6 +2,6 @@
   <head>
   </head>
   <body>
-    <img src="2.jpg" width="400" height="500" alt="3-4반 시간표" title="3-4반 시간표">
+    <img src="2.jpg" width="500" height="400" alt="3-4반 시간표" title="3-4반 시간표">
   </body>
 </html>
