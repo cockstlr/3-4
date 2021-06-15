@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewpoint content="width=device-width, initial-scale=1.0">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
     <img src="1.jpg" width="500" height="300" alt="3-4반 시간표" title="3-4반 시간표">
